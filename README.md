@@ -1,2 +1,2 @@
 # CVDL-Repository
-Paper and Code for CV&amp;DL 
+Paper and Code to make sense of CV&amp;DL 
