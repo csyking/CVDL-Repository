@@ -2,3 +2,4 @@
 Paper and Code to make sense of CV&amp;DL 
 
 ## Cavalry series
+### Detection
